@@ -7,7 +7,7 @@ Data Analytics and Business Intelligence projects using Power BI, SQL, Excel and
 
 ---
 
-## 🇧🇷 Sobre mim
+## Sobre mim
 
 Sou profissional formada em Administração, com título profissional de Licenciada em Administração e experiência corporativa em Supply Chain e Operações.
 
@@ -17,7 +17,7 @@ Atualmente, estou direcionando meu desenvolvimento profissional para Business In
 
 Meu objetivo é integrar conhecimentos de negócios, tecnologia e análise de dados para transformar informações em insights relevantes, identificar oportunidades de melhoria e apoiar decisões estratégicas nas organizações.
 
-## 🇬🇧 About Me
+## About Me
 
 I am a Business Administration professional with a professional qualification in Business Administration and corporate experience in Supply Chain and Operations.
 
